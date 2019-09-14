@@ -6,13 +6,13 @@ about: "Is something not working as expected?"
 <!--
   Before opening a new issue please:
   
-  - Verify you have the latest versions of Jekyll and Basically Basic 
+  - Verify you have the latest versions of Jekyll and Minimal Mistakes 
     installed by running `bundle update`.
   - Thoroughly read the theme's documentation at
-    https://github.com/mmistakes/jekyll-theme-basically-basic
-  - Search all issues at https://github.com/mmistakes/jekyll-theme-basically-basic/issues 
+    https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - Search all issues at https://github.com/mmistakes/minimal-mistakes/issues 
     for solutions and to avoid duplication.
-  - Ask for help at https://talk.jekyllrb.com/
+  - Ask for help at http://talk.jekyllrb.com/
   
   After exhausting these suggestions use the format below.
 -->
@@ -29,7 +29,7 @@ about: "Is something not working as expected?"
   file, or problematic site content. 
 -->
 
-- Basically Basic version:
+- Minimal Mistakes version:
 - Ruby gem or remote theme version:
 - Jekyll version:
 - Git repository URL:
