@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Digital Banana"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "A blog about data visualization"
 name                     : "Kenny Jeurissen"
-description              : "Data Visualization"
+description              : "datavis <3"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "DigitalBanana_"
 facebook:
   username               :
   app_id                 :
@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "kennyjeurissen@hotmail.com"
+      url: "mailto:kennyjeurissen@hotmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://digital-banana.github.io"
@@ -292,6 +292,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
