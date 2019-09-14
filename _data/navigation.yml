@@ -1,6 +1,6 @@
 main:
   - title: "Blog"
-    url: https://digital-banana.github.io
+    url: /categories/
   - title: "Work"
     url: /portfolio/
   - title: "About"
