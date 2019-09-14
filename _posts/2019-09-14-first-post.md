@@ -2,7 +2,7 @@
 title: "First post"
 date: 2019-09-14
 categories:
-  - blog
+  - Blog
 tags:
   - datavis
   - color theory
