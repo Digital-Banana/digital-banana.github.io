@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Kenny Jeurissen"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile-image.png"
   bio    : "A data visualization blog."
   links:
     #- label: "Website"
