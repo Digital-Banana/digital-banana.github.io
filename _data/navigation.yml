@@ -1,5 +1,5 @@
 main:
-  - title: "Blog"
+  - title: "Categories"
     url: /categories/
   - title: "Work"
     url: /portfolio/
