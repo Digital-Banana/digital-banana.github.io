@@ -8,6 +8,10 @@ tags:
   - color theory
   - R
   - D3.js
+header:
+    teaser: /assets/images/header.jpg
+    image: /assets/images/header.jpg
+    og_image: /assets/images/header.jpg
 ---
 
 
