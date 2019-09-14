@@ -2,17 +2,28 @@
 title: "First post"
 date: 2019-09-14
 categories:
-  - Blog
+  - Visualization
 tags:
   - datavis
   - color theory
+  - R
+  - D3.js
 ---
 
 
-Jekyll also offers powerful support for code snippets:
+This is a test post.
 
 ```r
     library(tidyverse)
     df <- read_csv('testcsv.csv')
     head(df)
+```
+
+```javascript
+  console.log("Hello World!")
+
+  function sum(a, b) {
+    alert a + b;
+  }
+  sum(2, 5)
 ```
