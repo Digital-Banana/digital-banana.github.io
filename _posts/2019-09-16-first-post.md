@@ -1,14 +1,14 @@
 ---
-title: "First post"
+title: "Welcome to my blog"
 date: 2019-09-16
 categories:
   - Fundamentals
 tags:
   - introduction
 header:
-    teaser: /assets/images/header.jpg
-    image: /assets/images/header.jpg
-    og_image: /assets/images/header.jpg
+    teaser: /assets/images/world_bg.svg
+    image: /assets/images/world_bg.svg
+    og_image: /assets/images/world_bg.svg
 ---
 
 ## Welcome!
