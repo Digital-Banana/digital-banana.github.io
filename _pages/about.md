@@ -16,4 +16,4 @@ When I'm not playing with data or doodling visual design ideas, I'm usually read
 Find out more about me from the social media links in the left. Find me on LinkedIn, Twitter, or send me an email.
 
 ### Techie Stuff
-I work with R for data analysis and D3 for high quality interactive graphs. I primarily work with Adobe Illustrator, Adobe Photoshop and MAXON Cinema 4D and Autodesk Maya for user interface and visual design.
+I work with R for data analysis and D3 for interactive graphs. I primarily work with Adobe Illustrator, Adobe Photoshop for user interface and visual design. Other tools include Cinema 4D and Autodesk Maya.
