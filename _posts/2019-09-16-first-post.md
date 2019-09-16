@@ -6,9 +6,9 @@ categories:
 tags:
   - introduction
 header:
-    teaser: /assets/images/world_bg.svg
-    image: /assets/images/world_bg.svg
-    og_image: /assets/images/world_bg.svg
+    teaser: /assets/images/header2.jpg
+    image: /assets/images/header2.jpg
+    og_image: /assets/images/header2.jpg
 ---
 
 ## Welcome!
