@@ -16,7 +16,7 @@ Welcome to my blog. This is hopefully the first post of many. In this blog I pla
 
 I created this blog in order to spread my knowledge, to learn new things and to get better at what I do. Having recently finished my Bachelor's Degree, I think this is a good way to continue learning. It's time to work on *real* projects now.
 
-What I have planned for the remainder of 2019 -- as there are only three and a half months left in 2019 -- is to get this blog up and running properly and post something new at least twice a week. I'd like to explore and create visualizations specifically for this blog, but also talk about good creations and good creators I find in the wild.
+What I have planned for the remainder of 2019 -- as there are only three and a half months left in 2019 -- is to get this blog up and running properly and post something new at least once a week. I'd like to explore and create visualizations specifically for this blog, but also talk about good creations and good creators I find in the wild.
 
 Together with my new job, running this blog and doing my own thing in my spare time I'll be busy for quite a while. :)
 
@@ -26,12 +26,12 @@ I plan to talk about a number of different categories related to the aforementio
 * Fundamentals
 * Case studies (breakdowns, or dissecting a design's numerous individual parts)
 * Statistics (data analysis, using R, Tableau or any other analysis software)
-* Design (making data readable and visually pleasing)
-* Maps (geographic data)
-* Coding (how to build all this cool stuff)
+* Design (making data readable, improving its visual literacy and making designs visually pleasing)
+* Maps (showing geographic data)
+* Coding (how to build all this cool stuff, mostly using d3/javascript)
 
 ### You like dags?
-Because I like dogs ([you like dags?](https://www.youtube.com/watch?v=ZXILzUpVx7A)) and data visualization, [here's a data visualization](https://informationisbeautiful.net/visualizations/best-in-show-whats-the-top-data-dog/) about dogs from the great Information is Beautiful website to start this blog off with.
+Because [I like dogs](https://www.youtube.com/watch?v=ZXILzUpVx7A) and data visualization, [here's a data visualization](https://informationisbeautiful.net/visualizations/best-in-show-whats-the-top-data-dog/) about dogs from the great Information is Beautiful website to start this blog off with.
 
 Thanks for reading!
 
