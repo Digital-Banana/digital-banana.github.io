@@ -59,5 +59,4 @@ Then there's volume and depth. Volume and depth includes different cases in whic
 
 Thanks for reading!
 
-Kind regards,
-Kenny
+- Kenny
