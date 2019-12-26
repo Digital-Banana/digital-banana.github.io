@@ -10,7 +10,7 @@ header:
     teaser: /assets/images/2019-09-18/header.png
     #image: /assets/images/2019-09-18/header.png
     og_image: /assets/images/2019-09-18/header.png
-published: false
+published: true
 ---
 
 ## Welcome!
@@ -52,7 +52,9 @@ One of the most well-known perception theories are the Gestalt Principles. Accor
 
 Then there's volume and depth. Volume and depth includes different cases in which elements on a screen can be perceived has having volume and depth, without it actually being so in reality. These include: overlapping, in which two overlapping elements would show the last element as being more distant than the first element. Similarly, two elements with different size would show the biggest element as the dominant factor and therefore appear to be closer than the smaller element. 
 
+## More later
 
+I will post more later. Topics will include data analysis with R, geographic data with D3 and vanilla Javascript coding patterns.
 
 
 
