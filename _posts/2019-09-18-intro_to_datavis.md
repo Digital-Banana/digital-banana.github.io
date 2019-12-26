@@ -9,7 +9,7 @@ tags:
   - data visualization
 header:
     teaser: /assets/images/2019-09-18/header.png
-    #image: /assets/images/2019-09-18/header.png
+    image: /assets/images/2019-09-18/header.png
     og_image: /assets/images/2019-09-18/header.png
 published: true
 ---
