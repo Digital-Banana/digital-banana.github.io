@@ -6,6 +6,7 @@ categories:
 tags:
   - introduction
   - basics
+  - data visualization
 header:
     teaser: /assets/images/2019-09-18/header.png
     #image: /assets/images/2019-09-18/header.png
@@ -27,7 +28,7 @@ We can go back quite far in history. 'Data' has always been around. Landmarks an
 ![Ptolemy's World Map]({{ site.baseurl }}/assets/images/2019-09-18/PtolemyWorldMap.jpg)
 Maps were also drawn. Ptolemy's world map comes to mind. It's a map of the known world according to Hellenic (Greek) society in the second century. Now as time went on, these maps continued to improve. Various European powers mapped a great deal during the 18th century. [Check out this article](https://www.theguardian.com/news/datablog/2012/apr/13/shipping-routes-history-map) by The Guardian that visualises shipping trade routes.
 
-![The first line chart]({{ site.baseurl }}/assets/images/linechart.png)
+![The first line chart]({{ site.baseurl }}/assets/images/2019-09-18/linechart.png)
 The 18th century was significant for Data Visualization. It was during this century, in 1786, that William Playfair published the first ever timeseries graph (better known as a line chart) in his *Commercial and Political Atlas*. This graph marked the beginning of data visualization as we know it today.
 
 In the second half of the 20th century, French cartographer Jacques Bertin used quantitative graphs to represent information intuitively and show the extent to which it helps people carry out data analysis or communication tasks. Bertin is considered to be one of the most important figures regarding modern data visualization. Well before Edward Tufte, Bertin described the contours of his “Graphic Sign System”, an early framework for designing and evaluating data-based graphics -- effectively laying the foundation for modern data visualization.
