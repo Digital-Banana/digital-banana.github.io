@@ -63,7 +63,7 @@ console.log(multiplyByTwo(data));
 // [8, 16, 30, 32, 64, 84]
 ```
 
-ES6 gives us further shorthands. There's no need to write function and returns. 7 (first function) and 5 lines (second function) have been reduced to 1 line:
+ES6 provides further shorthands. There's no need to write function and returns. 7 and 5 lines (first and second function respectively) have been reduced to 1 line:
 
 ```javascript
 // This does exactly the same as the previous function
