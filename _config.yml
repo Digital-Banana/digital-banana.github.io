@@ -75,7 +75,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/digital-banana"
     - label: "Instagram"
-     icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/kennyjeurissen/"
 
 footer:
@@ -90,7 +90,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/digital-banana"
     - label: "Instagram"
-     icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/kennyjeurissen/"
 
 collections:
