@@ -15,7 +15,9 @@ published: true
 ---
 
 ## Javascript Array Map
-Javascript ES6 gave us .map(), a function that works the same as a traditional for loop but with benefits. So what's different?
+> The map() method creates a new array populated with the results of calling a provided function on every element in the calling array.
+
+Javascript map() is a function that works the same as a traditional for loop but with benefits. So what's different?
 
 ### Multiplying by two
 Let's say we want to loop over an array of numbers and multiply them by 2. Here's our array: 
