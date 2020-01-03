@@ -21,6 +21,9 @@ R, JavaScript, D3.js, WebGL
 
 [View it here.](http://www.hdilab.com/terror/globe.html)
 
+
+
+
 ## DATA VISUALIZATION: Pension fund scrollytelling
 
 ### Description: 
@@ -29,8 +32,6 @@ A Dutch pension fund receives their yearly reports in a very long, very complex 
 ### Technologies:
 JavaScript, D3.js
 
-### Code:
---
 
 
 ## DATA VISUALIZATION: Migration to the Netherlands
@@ -42,8 +43,7 @@ The Netherlands has a long history of immigration. Both refugees and economic mi
 ### Technologies:
 JavaScript, D3.js
 
-### Code: 
---
+
 
 [View it here.](https://digital-banana.github.io/Migration/)
 
@@ -59,8 +59,7 @@ This is a 3D low polygon render for the Panoptes project. The Panoptes projects 
 ### Technologies:
 Cinema 4D
 
-### Code:
---
+
 
 [View it here](https://www.artstation.com/artwork/GAwQd), [and here.](http://hdilab.com/portfolio/hololens-visualization-beyound-two-dimensional-displays/)
 
@@ -72,7 +71,6 @@ This was a 3D low polygon render and background image for a project that visuali
 ### Technologies:
 Cinema 4D
 
-### Code:
---
-
 [View it here](https://www.artstation.com/artwork/raQkG)
+
+
