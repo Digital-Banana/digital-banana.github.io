@@ -6,17 +6,17 @@ entries_layout: grid
 ---
 
 
-### Experiment 1
+## Experiment 1
 <figure>
 	<img src="/assets/images/portfolio/aHistoryOfTerror.png">
 	<!-- <figcaption>Figcaption for this image.</figcaption> -->
 </figure>
 
-#### Description: 
+### Description: 
 Text
 
-#### Technologies:
+### Technologies:
 Text
 
-#### Code:
+### Code:
 Text
