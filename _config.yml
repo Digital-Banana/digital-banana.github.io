@@ -127,8 +127,8 @@ defaults:
       share: true
     #_experiments
   - scope:
-      path: ""
-      type: experiments
+      path: "_experiments"
+      type: portfolio
     values:
       layout: single
       author_profile: false
