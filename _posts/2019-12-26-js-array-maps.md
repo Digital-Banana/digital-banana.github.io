@@ -8,7 +8,7 @@ tags:
   - javascript
   - ES6
 header:
-    #teaser: /assets/images/2019-09-18/header.png
+    teaser: /assets/images/2019-12-26/js-array-map.png
     #image: /assets/images/2019-09-18/header.png
     #og_image: /assets/images/2019-09-18/header.png
 published: true
