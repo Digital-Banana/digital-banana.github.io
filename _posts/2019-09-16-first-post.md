@@ -7,8 +7,8 @@ tags:
   - introduction
 header:
     teaser: /assets/images/header2.jpg
-    image: /assets/images/header2.jpg
-    og_image: /assets/images/header2.jpg
+    # image: /assets/images/header2.jpg
+    # og_image: /assets/images/header2.jpg
 ---
 
 ## Welcome!
